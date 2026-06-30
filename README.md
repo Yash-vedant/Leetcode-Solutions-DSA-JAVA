@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0941-valid-mountain-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -45,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
