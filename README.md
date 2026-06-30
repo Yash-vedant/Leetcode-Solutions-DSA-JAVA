@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Two Pointers
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
