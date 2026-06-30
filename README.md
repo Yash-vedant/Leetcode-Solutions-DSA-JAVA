@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0605-can-place-flowers](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
