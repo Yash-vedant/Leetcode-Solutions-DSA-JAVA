@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
