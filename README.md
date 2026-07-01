@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0041-first-missing-positive/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -146,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
