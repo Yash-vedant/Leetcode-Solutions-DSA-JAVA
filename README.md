@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
