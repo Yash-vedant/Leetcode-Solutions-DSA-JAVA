@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0525-contiguous-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Two Pointers
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1678-goal-parser-interpretation/) | Easy |
