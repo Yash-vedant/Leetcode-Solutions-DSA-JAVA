@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 ## String
