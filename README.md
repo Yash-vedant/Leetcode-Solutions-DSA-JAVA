@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
