@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
+| [0704-binary-search](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
