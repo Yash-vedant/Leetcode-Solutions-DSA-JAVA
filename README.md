@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0525-contiguous-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
@@ -40,11 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 ## String
 | Problem Name | Difficulty |
