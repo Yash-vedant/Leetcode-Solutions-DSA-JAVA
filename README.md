@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0525-contiguous-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0525-contiguous-array/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
@@ -67,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
@@ -78,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0525-contiguous-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0525-contiguous-array/) | Medium |
@@ -167,4 +172,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
