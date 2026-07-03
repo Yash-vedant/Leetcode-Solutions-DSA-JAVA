@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -117,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Binary Search
