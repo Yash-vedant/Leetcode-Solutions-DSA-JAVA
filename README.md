@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Binary Search
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 ## Stack
