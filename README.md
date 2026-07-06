@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Divide and Conquer
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
