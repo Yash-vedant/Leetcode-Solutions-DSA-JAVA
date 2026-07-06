@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
