@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
