@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1528-shuffle-string](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1528-shuffle-string/) | Easy |
@@ -203,12 +204,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
