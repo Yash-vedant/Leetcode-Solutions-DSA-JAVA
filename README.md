@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0525-contiguous-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -198,11 +199,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Yash-vedant/Leetcode-Solutions-DSA-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
